@@ -1,0 +1,2 @@
+agregar authentificacion(no lo gueadis solo permitir show)
+upload de imagenes validación forms
