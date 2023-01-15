@@ -3,12 +3,12 @@ import { initializeApp } from "firebase/app";
 
 import { getFirestore } from "firebase/firestore";
 const firebaseConfig = {
-  apiKey: "AIzaSyCq32lfwBOgRuwys4gUfexINq87mmDYvgg",
+  apiKey: "",
   authDomain: "crud-firebase-react-fbee5.firebaseapp.com",
   projectId: "crud-firebase-react-fbee5",
   storageBucket: "crud-firebase-react-fbee5.appspot.com",
   messagingSenderId: "695133491261",
-  appId: "1:695133491261:web:66fc1fd4a2508ec7e49a54"
+  appId: ""
 };
 
 // Initialize Firebase
