@@ -9,7 +9,7 @@ lerna-debug.log*
 
 node_modules
 src/
-src/firebaseConfig/firebase
+src/firebaseConfig/*
 dist
 dist-ssr
 *.local
